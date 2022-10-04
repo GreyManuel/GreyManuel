@@ -3,19 +3,17 @@
 
 
 <p align="center">
-  <a href="https://github.com/GreyManuel"><img src="https://readme-typing-svg.herokuapp.com?color=5B5B5B&center=true&vCenter=true&lines=Front-end+developer;Machine+learning+engineer;Python,+ReactJS,+Vue,+Java,+Android,+PHP,+Django;From+Freedom+Came+Elegance&height=45&color=311219&vCenter=true"></a>
+  <a href="https://github.com/GreyManuel"><img src="https://readme-typing-svg.herokuapp.com?color=5B5B5B&center=true&vCenter=true&lines=Machine+learning+engineer;Software+developer;Python,+ReactJS,+Vue,+Java,+Android,+PHP,+Django;From+Freedom+Came+Elegance&height=45&color=311219&vCenter=true"></a>
 </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=shyrenmore&color=5A84CA" alt="GreyManuel" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=greymanuel&color=5A84CA" alt="GreyManuel" /> </p>
 
 ### About me
 
-- I am a final year student pursuing Bachelor’s degree in Computer Engineering from the Thadomal Shahani Engineering College, Mumbai (India) [2023] and looking for full-time roles as a software development engineer (SDE) or similar role.
-- I have been doing web development specifically front-end development using React JS library for about a year, recently I started exploring the field of blockchain
-- I learn and build new projects in innovative and optimized ways with the least tolerance for errors. While creating new projects I also intend to share the things that I’ve developed via well-worded markdown documentation on my repositories. An ambitious, passionate, and dedicated Computer Engineering Student aspiring to work in an environment that makes the best use of my abilities.
-- [**Know my technical capabilities via resume**](https://shyrenmore.github.io/resume/resume.pdf)
+- I am a post grad pursuing **Master's Degree in Machine Learning** and the founder of GreyTech Systems Inc, a software company in Nairobi, Kenya
+- A linux enthusiast
 
-| ![Shyren More's Github Stats](https://github-readme-stats.vercel.app/api?username=ShyrenMore&show_icons=true_color=fff&theme=algolia) |  ![Shyren More's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShyrenMore&theme=algolia) |
+| ![Grey Manuel's Github Stats](https://github-readme-stats.vercel.app/api?username=GreyManuel&show_icons=true_color=fff&theme=algolia) |  ![Grey Manuel's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GreyManuel&theme=algolia) |
 | --- | --- |
 <br>
 
@@ -24,13 +22,13 @@
 
 
 
-- I recently built **[Etherfunds | A blockchain based crowdfunding platform](https://github.com/DevelopersLeague/Etherfunds)**
-- I’m currently working on **React.js** and **[Problem Solving](https://github.com/GreyManuel/GreyHacks)** skills
-- Skilled in C/C++ and JavaScript. Versed with Python and Java.
+- I recently built **[Etherfunds | A blockchain based crowdfunding platform](https://github.com/GreyManuel/Etherfunds)**
+- I’m currently working on **SVM algorithm**, **Logistic regression** and **[Problem Solving](https://github.com/GreyManuel/GreyHacks)** skills
+- Skilled in C/C++ and Kotlin. Versed with Python and Java.
 - Comfortable working with ReactJS, Django, PHP, MySQL.
 - Documentation Tools/Frameworks: Markdown, PPT.
-- How to reach me **https://www.linkedin.com/in/shyrenmore/**
-- Fun fact **My name is pronounced as Shy run**
+- How to reach me **https://ke.linkedin.com/in/manuel-grey-aa4010182**
+- Fun fact **I am a Particle Physicist**
 
 <!-- ## 🔥 My contribution streak
 
