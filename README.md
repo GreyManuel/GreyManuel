@@ -17,8 +17,7 @@
 | --- | --- |
 <br>
 
-<details>
- <summary>Current status</summary>
+**Current status**
 
 
 
