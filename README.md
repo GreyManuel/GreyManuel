@@ -6,14 +6,14 @@
   <a href="https://github.com/GreyManuel"><img src="https://readme-typing-svg.herokuapp.com?color=5B5B5B&center=true&vCenter=true&lines=Machine+learning+engineer;Software+developer;Python,+ReactJS,+Vue,+Java,+Android,+PHP,+Django;From+Freedom+Came+Elegance&height=45&color=311219&vCenter=true"></a>
 </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=greymanuel&color=5A84CA" alt="GreyManuel" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=shyrenmore&color=5A84CA" alt="GreyManuel" /> </p>
 
 ### About me
 
 - I am a post grad pursuing **Master's Degree in Machine Learning** and the founder of GreyTech Systems Inc, a software company in Nairobi, Kenya
 - A linux enthusiast
 
-| ![Grey Manuel's Github Stats](https://github-readme-stats.vercel.app/api?username=GreyManuel&show_icons=true_color=fff&theme=algolia) |  ![Grey Manuel's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GreyManuel&theme=algolia) |
+| ![Grey Manuel's Github Stats](https://github-readme-stats.vercel.app/api?username=shyrenmore&show_icons=true_color=fff&theme=algolia) |  ![Grey Manuel's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shyrenmore&theme=algolia) |
 | --- | --- |
 <br>
 
@@ -33,8 +33,8 @@
 <!-- ## 🔥 My contribution streak
 
 <p align="center">
-  <a href="https://github.com/GreyManuel/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=GreyManuel#version3"/>
+  <a href="https://github.com/shyrenmore/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=shyrenmore#version3"/>
   </a>
 </p>
  -->
