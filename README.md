@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <a href="https://github.com/GreyManuel"><img src="https://readme-typing-svg.herokuapp.com?color=5B5B5B&center=true&vCenter=true&lines=Machine+learning+engineer;Python,+LISP,+Java,+Android,+PHP;ReactJS,+Vue,+Django,+NodeJS+C++;Full stack+developer&height=45&color=311219&vCenter=true"></a>
+  <a href="https://github.com/GreyManuel"><img src="https://readme-typing-svg.herokuapp.com?color=5B5B5B&center=true&vCenter=true&lines=Machine+learning+engineer;Python,+LISP,+C,+Java,+Android,+PHP;ReactJS,+Vue,+Django,+NodeJS+C++;Full stack+developer&height=45&color=311219&vCenter=true"></a>
 </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=shyrenmore&color=5A84CA" alt="GreyManuel" /> </p>
