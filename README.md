@@ -1,4 +1,4 @@
-<h1 align="center"> I'm Grey Manuel </h1>
+<h1 align="center"> Grey Manuel </h1>
 
 
 
@@ -8,9 +8,9 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=shyrenmore&color=5A84CA" alt="GreyManuel" /> </p>
 
-### About me
+### About Grey
 
-- I am a post grad with a **Master's Degree in Machine Learning** and a graduate with **Bachelor's Degree in Computer Science**.
+- Post grad with a **Master's Degree in Machine Learning** and a graduate with **Bachelor's Degree in Computer Science**.
 - A Cyber Security enthusiast and a linux crusader
 
 | ![Grey Manuel's Github Stats](https://github-readme-stats.vercel.app/api?username=greymanuel&show_icons=true_color=fff&theme=cobalt) |  ![Grey Manuel's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kkrypt0nn&theme=algolia) |
@@ -21,16 +21,16 @@
 
 
 
-- I recently built **[Etherfunds | A blockchain based crowdfunding platform](https://github.com/GreyManuel/Etherfunds)**
-- I’m currently working on **SVM algorithm**, **Logistic regression** and **[Problem Solving](https://github.com/GreyManuel/GreyHacks)** skills
+- Recently built **[Etherfunds | A blockchain based crowdfunding platform](https://github.com/GreyManuel/Etherfunds)**
+- Currently working on **SVM algorithm**, **Logistic regression** and **[Problem Solving](https://github.com/GreyManuel/GreyHacks)** skills
 - Skilled in R and Kotlin. Versed with Python and Java.
 - Comfortable working with ReactJS, Django, PHP, MySQL.
 - Documentation Tools/Frameworks: Markdown, PPT.
-- How to reach me:
+- How to reach Grey:
     - **https://wa.me/254706290861**
     - **https://ke.linkedin.com/in/manuel-grey-aa4010182**
     - **https://instagram.com/greyncodes**
-- Fun fact **I am a Particle Physicist**
+- Fun fact **Grey is a Particle Physicist**
 
 <!-- ## 🔥 My contribution streak
 
