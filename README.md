@@ -13,7 +13,7 @@
 - I am a post grad pursuing **Master's Degree in Machine Learning** with a **Bachelor's Degree in Computer Science**.
 - A Cyber Security enthusiast and a linux die hard
 
-| ![Grey Manuel's Github Stats](https://github-readme-stats.vercel.app/api?username=greymanue&show_icons=true_color=fff&theme=algolia) |  ![Grey Manuel's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shyrenmore&theme=algolia) |
+| ![Grey Manuel's Github Stats](https://github-readme-stats.vercel.app/api?username=greymanuel&show_icons=true_color=fff&theme=algolia) |  ![Grey Manuel's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shyrenmore&theme=algolia) |
 | --- | --- |
 <br>
 
