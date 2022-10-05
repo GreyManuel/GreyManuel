@@ -27,8 +27,9 @@
 - Comfortable working with ReactJS, Django, PHP, MySQL.
 - Documentation Tools/Frameworks: Markdown, PPT.
 - How to reach me:
-    - **https://ke.linkedin.com/in/manuel-grey-aa4010182**
     - **https://wa.me/254706290861**
+    - **https://ke.linkedin.com/in/manuel-grey-aa4010182**
+    - **https://instagram.com/greyncodes**
 - Fun fact **I am a Particle Physicist**
 
 <!-- ## 🔥 My contribution streak
