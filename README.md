@@ -13,7 +13,7 @@
 - Post grad **Doctorate, Particle Physics**, **MSc Machine Learning** and **BSc Computer Science**.
 - A Cyber Security enthusiast and a linux crusader
 
-| ![Grey Manuel's Github Stats](https://github-readme-stats.vercel.app/api?username=JonathanGin52&show_icons=true_color=fff&theme=cobalt) |  ![Grey Manuel's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JonathanGin52&theme=algolia) |
+| ![Grey Manuel's Github Stats](https://cheesits456-readme-stats.vercel.app/api/top-langs?username=greymanuel&layout=compact&hide=smarty) |  ![Grey Manuel's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JonathanGin52&theme=algolia) |
 | --- | --- |
 <br>
 
