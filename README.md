@@ -10,7 +10,7 @@
 
 ### About Grey
 
-- Post grad with a **Master's Degree in Machine Learning** and a graduate with **Bachelor's Degree in Computer Science**.
+- Post grad **Doctorate, Particle Physics**, **MSc Machine Learning** and **BSc Computer Science**.
 - A Cyber Security enthusiast and a linux crusader
 
 | ![Grey Manuel's Github Stats](https://github-readme-stats.vercel.app/api?username=greymanuel&show_icons=true_color=fff&theme=cobalt) |  ![Grey Manuel's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kkrypt0nn&theme=algolia) |
