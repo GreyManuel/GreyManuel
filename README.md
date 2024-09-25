@@ -1,4 +1,4 @@
-<h1 align="center"> Grey Manuel </h1>
+<h1 align="center"> Grey Emmanuel </h1>
 
 
 
