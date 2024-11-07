@@ -10,7 +10,9 @@
 
 ### About Grey
 
-- **MSc Machine Learning** and **BSc Computer Science**.
+- **PhD Particle Physics**
+- **MSc Machine Learning**
+- **BSc Computer Science**.
 - A Cyber Security enthusiast and a linux crusader
 
 | ![Grey Manuel's Github Stats](https://cheesits456-readme-stats.vercel.app/api/top-langs?username=springmeyer&layout=compact&hide=smarty) |  ![Grey Manuel's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=formidablae&theme=algolia) |
