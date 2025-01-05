@@ -8,9 +8,9 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=antonkomarev&color=5A84CA" alt="GreyManuel" /> </p>
 
-### About Dr. Grey
+### About Grey
 
-- **PhD Particle Physics**
+- **Currently-Doctrate Deegree Particle Physics**
 - **Masters of Science in Machine Learning Engineering**
 - **Bachelor of Science in Computer Science**.
 - A Cyber Security enthusiast and a linux crusader
