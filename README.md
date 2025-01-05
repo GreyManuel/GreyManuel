@@ -23,8 +23,8 @@
 
 
 
-- Recently built **[LLD Score Regression | a command line tool for estimating heritability and genetic correlation from GWAS summary statistics.](https://github.com/GreyManuel/Etherfunds)**
-- Currently working on **SVM algorithm**, **Logistic regression** and **[Problem Solving](https://github.com/GreyManuel/GreyHacks)** skills
+- Recently built **[LLDSC | A command line tool for estimating heritability and genetic correlation from GWAS summary statistics.](https://github.com/GreyManuel/Etherfunds)**
+- Currently working on **SVM algorithm**, **Logistic regression**
 - Skilled in R and Kotlin. Versed with Python and Java.
 - Comfortable working with ReactJS, Django, PHP, MySQL.
 - Documentation Tools/Frameworks: Markdown, PPT.
