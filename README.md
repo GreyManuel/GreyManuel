@@ -10,7 +10,7 @@
 
 ### About Grey
 
-- **Currently-Doctrate Deegree Particle Physics**
+- **Currently-Doctrate Degree Particle Physics**
 - **Masters of Science in Machine Learning Engineering**
 - **Bachelor of Science in Computer Science**.
 - A Cyber Security enthusiast and a linux crusader
